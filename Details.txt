@@ -1,0 +1,35 @@
+Topics:
+
+  Usefull third-party libraries:
+    
+    1. Axios - APIs and request handlers
+        Axios js is a promise-based HTTP library that lets you consume an API service
+
+        Instances:
+          Helps in creating multiple instance of api services
+            Eg:
+              Payment API service ( https://payment.amazon.com )
+              Catalog API service ( https://catalog.amazon.com )
+              Usual ECommerce API ( https://api.amazon.com )
+        
+        Intercepting:
+          Helps intercept and execute commands during request and response
+
+    2. Formik - Form handling and validation
+
+    3. Redux - State management tool Initial Setup
+
+Next Session:  
+
+  axios cancelling
+
+  local storage & session storage
+
+  Redux - State management tool
+    Session management
+    Protected Routes using the session
+
+  Question:
+    Regex and conditional css in formik
+    create-react-app deprecated
+    CSS transition
